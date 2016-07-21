@@ -90,6 +90,10 @@
     <Content Include="fonts\weather-icons\weather-icons.eot" />
     <Content Include="fonts\weather-icons\weather-icons.ttf" />
     <Content Include="fonts\weather-icons\weather-icons.woff" />
+    <Content Include="vendors\bower.json" />
+    <Content Include="vendors\fileinput\fileinput.less" />
+    <Content Include="vendors\weather-icons\weather-font.less" />
+    <Content Include="vendors\weather-icons\weather-icons.less" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -250,6 +254,20 @@
     <Content Include="img\widgets\note4.jpg" />
     <Content Include="img\widgets\preview.jpg" />
     <Content Include="index.html" />
+    <Content Include="vendors\bootstrap-growl\bootstrap-growl.js" />
+    <Content Include="vendors\bootstrap-growl\bootstrap-growl.min.js" />
+    <Content Include="vendors\farbtastic\farbtastic.css" />
+    <Content Include="vendors\farbtastic\farbtastic.js" />
+    <Content Include="vendors\farbtastic\farbtastic.min.js" />
+    <Content Include="vendors\farbtastic\marker.png" />
+    <Content Include="vendors\farbtastic\mask.png" />
+    <Content Include="vendors\farbtastic\wheel.png" />
+    <Content Include="vendors\fileinput\fileinput.js" />
+    <Content Include="vendors\fileinput\fileinput.min.js" />
+    <Content Include="vendors\input-mask\input-mask.js" />
+    <Content Include="vendors\input-mask\input-mask.min.js" />
+    <Content Include="vendors\sparklines\jquery.sparkline.js" />
+    <Content Include="vendors\sparklines\jquery.sparkline.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
