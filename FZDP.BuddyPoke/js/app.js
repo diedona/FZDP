@@ -5,7 +5,6 @@ var materialAdmin = angular.module('materialAdmin', [
     'ui.bootstrap',
     'angular-loading-bar',
     'oc.lazyLoad',
-    'nouislider',
-    'ngTable'
+    'nouislider'
 ])
  
