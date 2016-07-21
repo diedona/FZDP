@@ -66,6 +66,22 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="js\app.js" />
+    <Content Include="js\config.js" />
+    <Content Include="js\controllers\main.js" />
+    <Content Include="js\controllers\table.js" />
+    <Content Include="js\controllers\ui-bootstrap.js" />
+    <Content Include="js\modules\calendar.js" />
+    <Content Include="js\modules\charts\flot.js" />
+    <Content Include="js\modules\charts\other-charts.js" />
+    <Content Include="js\modules\components.js" />
+    <Content Include="js\modules\demo.js" />
+    <Content Include="js\modules\form.js" />
+    <Content Include="js\modules\media.js" />
+    <Content Include="js\modules\template.js" />
+    <Content Include="js\modules\ui.js" />
+    <Content Include="js\services.js" />
+    <Content Include="js\templates.js" />
     <Content Include="packages.config" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
