@@ -243,3 +243,4 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/FZDP.BuddyPoke/vendors/bower_components
