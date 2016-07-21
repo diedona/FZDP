@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuddyPoke", "BuddyPoke", "{FFB45F77-05D3-426A-91D3-4322091CA9CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FZDP.BuddyPoke", "FZDP.BuddyPoke\FZDP.BuddyPoke.csproj", "{B69C5DB7-EFDF-45F9-992D-B7CE31E5765F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69C5DB7-EFDF-45F9-992D-B7CE31E5765F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69C5DB7-EFDF-45F9-992D-B7CE31E5765F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69C5DB7-EFDF-45F9-992D-B7CE31E5765F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69C5DB7-EFDF-45F9-992D-B7CE31E5765F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B69C5DB7-EFDF-45F9-992D-B7CE31E5765F} = {FFB45F77-05D3-426A-91D3-4322091CA9CE}
+	EndGlobalSection
+EndGlobal
