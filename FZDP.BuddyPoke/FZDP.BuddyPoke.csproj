@@ -71,6 +71,7 @@
     <Content Include="js\controllers\main.js" />
     <Content Include="js\controllers\table.js" />
     <Content Include="js\controllers\ui-bootstrap.js" />
+    <Content Include="js\custom_modules\fzdp.bp.common.layout.js" />
     <Content Include="js\modules\calendar.js" />
     <Content Include="js\modules\charts\flot.js" />
     <Content Include="js\modules\charts\other-charts.js" />
@@ -110,6 +111,7 @@
     <Content Include="vendors\fileinput\fileinput.less" />
     <Content Include="vendors\weather-icons\weather-font.less" />
     <Content Include="vendors\weather-icons\weather-icons.less" />
+    <Content Include="js\app.config.js" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

@@ -1,10 +1,3 @@
-var materialAdmin = angular.module('materialAdmin', [
-    'ngAnimate',
-    'ngResource',
-    'ui.router',
-    'ui.bootstrap',
-    'angular-loading-bar',
-    'oc.lazyLoad',
-    'nouislider'
-])
- 
+(function () {
+    var app = angular.module('fzdp.bp', ['fzdp.bp.common.layout', 'fzdp.bp.config']);
+}());
